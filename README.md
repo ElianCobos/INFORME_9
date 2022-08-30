@@ -14,6 +14,18 @@
 * Analizar la operación de filtros rechazabanda
 
 ## **2.	Marco Teórico (Resumen)**
+### IMPEDANCIA DE CIRCUITOS RLC EN SERIE
+![imagen](https://user-images.githubusercontent.com/105674953/187343153-1a72c85b-8b61-42da-8bdc-3f74b44101a2.png)
+### ANÁLISIS DE CIRCUITOS RLC EN SERIE
+![imagen](https://user-images.githubusercontent.com/105674953/187343173-a946a82e-ff59-4a07-bad8-eeca9e5b65b1.png)
+### RESONANCIA EN SERIE
+![imagen](https://user-images.githubusercontent.com/105674953/187343187-c3a26805-e1b3-40f9-8431-9ba9db459f2b.png)
+### IMPEDANCIA DE CIRCUITOS RLC EN PARALELO
+![imagen](https://user-images.githubusercontent.com/105674953/187343216-b8339c7b-8a83-465b-8617-6457019ea5fb.png)
+### ANÁLISIS DE CIRCUITOS RLC EN PARALELO
+![imagen](https://user-images.githubusercontent.com/105674953/187343233-b7f60cfb-6dcb-4b09-af72-63adb9de5371.png)
+### RESONANCIA EN PARALELO
+![imagen](https://user-images.githubusercontent.com/105674953/187343253-aec57da3-e1f4-4c37-9847-c610b79fe3ef.png)
 
 ## **3.	Explicación y resolución de ejercicios o problemas**
 
