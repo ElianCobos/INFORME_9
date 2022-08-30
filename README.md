@@ -19,6 +19,7 @@
 
 ### **Capitulo 17**
 **2. Determine la impedancia en la figura 17-59 y exprésela en forma polar.**
+### a)
 ![imagen](https://user-images.githubusercontent.com/105674953/187334106-d6bfc248-643a-4ddd-bed8-7218d84407a9.png)
 
 **4. Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 Ω.**
