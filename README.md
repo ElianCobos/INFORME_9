@@ -77,8 +77,7 @@
 ### 38. Diseñe un red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz. Suponga una bobina de 10 mH con resistencia de devanado de 5 Ω.
 ![imagen](https://user-images.githubusercontent.com/105674953/187335525-7c338c31-3d6b-4093-845c-f0fa91c36382.png)
 
-### 40. Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho
-de banda? ¿Cuál es la frecuencia resonante?
+### 40. Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho de banda? ¿Cuál es la frecuencia resonante?
 ![imagen](https://user-images.githubusercontent.com/105674953/187335546-a478303e-3c5d-4766-b0f0-53416f2296a0.png)
 
 ### 42. En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω
