@@ -3,14 +3,10 @@
 ## **1.	Objetivos**
 
 * Determinar la impedancia de un circuito RLC en serie
-* Analizar circuitos RLC en serie 
-* Analizar circuitos RLC en paralelo 
 * Analizar un circuito en cuanto a resonancia en paralelo 
 * Determinar el ancho de banda de circuitos resonantes
-* Examinar algunas aplicaciones de circuitos resonantes
 * Analizar la operación de filtros pasabajas RC y RL
 * Analizar la operación de filtros pasaaltas RC y RL
-* Analizar la operación de filtros pasabanda
 * Analizar la operación de filtros rechazabanda
 
 ## **2.	Marco Teórico (Resumen)**
